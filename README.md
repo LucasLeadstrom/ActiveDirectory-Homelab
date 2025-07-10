@@ -30,7 +30,14 @@ This is a home lab I created to learn and demonstrate skills in Windows Server a
 
 📸 Screenshots
 
-screenshots/users and groups.png
+[![Users and Groups](screenshots/Users%20and%20Groups.png)
+
+[![GPO with Security Filtered Group](screenshots/GPO%20with%20Security%20Filtered%20Group.png)
+
+[![Restricted Access due to GPO](screenshots/Restricted%20Access%20due%20to%20GPO.png)
+
+[![Verifying Domain Connection via DHCP](screenshots/Verifying%20Domain%20Connection%20via%20DHCP.png)
+
 
 💡 What I Learned
 
