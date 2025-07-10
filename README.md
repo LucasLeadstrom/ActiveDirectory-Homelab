@@ -30,7 +30,7 @@ This is a home lab I created to learn and demonstrate skills in Windows Server a
 
 📸 Screenshots
 
-Coming soon...
+screenshots/users and groups.png
 
 💡 What I Learned
 
